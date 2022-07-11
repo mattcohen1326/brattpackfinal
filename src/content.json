@@ -1,0 +1,65 @@
+{
+    "content" : [
+        {
+            "type":"space",
+            "title":"Devils Fam Twitter Space July 7th",
+            "date":"77",
+            "route":"/Spaces#77",
+            "body":"test",
+            "img":"img/spaces/77.jpg"
+        },
+        {
+            "type":"space",
+            "title":"Devils Fam Twitter Space July 10th",
+            "name":"1",
+            "date":"710",
+            "body":"test",
+            "route":"/Spaces#710",
+            "img":"img/spaces/710.jpg"
+        },
+        {
+            "type":"blog",
+            "title":"First Post",
+            "date":"710",
+            "body":"test",
+            "route":"/FirstPost"
+        },
+        {
+            "type":"appearance",
+            "title":"Devils State Of Mind",
+            "name":"3",
+            "body":"test",
+            "date":"710",
+            "route":"/Spaces#710",
+            "img":"img/3.png"
+        },
+        {
+            "type":"space",
+            "title":"Devils Fam Twitter Space July 13th",
+            "date":"713",
+            "body":"test",
+            "route":"/Spaces#710",
+            "img":"img/spaces/713.jpg"
+        },
+        {
+            "type":"appearance",
+            "title":"Locked On Devils Podcast",
+            "route":"https://open.spotify.com/episode/7kNsTchgIqDw2f3gjBOHiL?si=uertW9B5R3O0aQqn-wXoKA&nd=1",
+            "name":"1",
+            "img":"img/1.png",
+            "date":"710",
+            "body":"test",
+            "url":"https://open.spotify.com/episode/7kNsTchgIqDw2f3gjBOHiL?si=uertW9B5R3O0aQqn-wXoKA&nd=1"
+        },
+        {
+            "type":"appearance",
+            "title":"Ice Cold Takes With The Boys In Blue",
+            "name":"2",
+            "route":"https://open.spotify.com/episode/6jLquBaxnWXgF9dzJHnMEX?si=kThnANFESEqGpy9imcTtsw&nd=1",
+            "img":"img/2.png",
+            "body":"test",
+            "date":"710",
+            "url":"https://open.spotify.com/episode/6jLquBaxnWXgF9dzJHnMEX?si=kThnANFESEqGpy9imcTtsw&nd=1"
+        }
+    ]
+}
