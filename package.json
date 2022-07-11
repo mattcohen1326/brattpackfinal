@@ -1,9 +1,10 @@
 {
-  "homepage": "https://milkywaves.org/",
   "name": "demo-app",
   "version": "0.1.0",
   "private": false,
+  "homepage": "https://brattpack63.com",
   "dependencies": {
+    "-": "0.0.1",
     "@testing-library/jest-dom": "^5.16.0",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
@@ -16,6 +17,7 @@
     "react-scripts": "^4.0.3",
     "react-tweet-embed": "^2.0.0",
     "react-twitter-widgets": "^1.10.0",
+    "save-dev": "0.0.1-security",
     "web-vitals": "^1.1.2"
   },
   "scripts": {

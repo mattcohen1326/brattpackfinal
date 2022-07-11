@@ -193,6 +193,7 @@ body a{
 
 #spaces{
 	margin-top:3vw;
+	width:95vw;
 	display:flex;
 	align-items:center;
 	justify-content:center;
