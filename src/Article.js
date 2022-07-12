@@ -71,6 +71,14 @@ class Articles extends React.Component {
 	render(){
 		return (
 		<div id = "Articles">
+			<div id = "mobile-content">
+					<h1 id = "best-player-mobile" >JBITBPITNHL</h1>
+					<div id = "counter">
+					<h1 id ="currently">THE BRATT PACK IS CURRENTLY</h1>
+					<h1 id = "count" >4,616</h1>
+					<h1 id = "strong">STRONG</h1>
+					</div>
+				</div>
 			{generateArticles()}
 		</div>
 		
