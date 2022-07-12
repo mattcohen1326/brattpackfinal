@@ -362,10 +362,10 @@ body a{
 	}
 
 	#mobile-content{
-		display: flex;
+	display: flex;
     flex-wrap: wrap;
     justify-content: center;
-	opacity: 100% !important;
+	opacity: 100%;
     position: relative !important;
     color: white;
     padding: 5vh;
