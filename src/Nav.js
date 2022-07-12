@@ -40,9 +40,9 @@ function Nav(){
 			<div id = "navMenu">
 				<NavItem column={2} name="Home" navigation = "/Home"/>
 				<NavItem column={4} name="Spaces" navigation = "/Spaces"/>
-				<img style={{gridColumnStart:6}} src={Logo} />
+				<img id="logo" style={{gridColumnStart:6}} src={Logo} />
 				<NavItem column={8} name="Appearances" navigation = "/Appearances"/>
-				<NavItem column={10} name="Bratt Pack Photos" navigation = "/Memes"/>
+				<NavItem column={10} name="Bratt Pack Photos" navigation = "/Community"/>
 			</div>
 		</div>
 		</div>

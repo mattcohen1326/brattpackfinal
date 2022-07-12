@@ -36,7 +36,7 @@ class Home extends React.Component{
 					<Article />
 					<div id = "right-side-content">
 						<h1 id = "best-player" >JBITBPITNHL</h1>
-						<h1 id ="count">THE BRATT PACK IS CURRENTLY 3,540 STRONG</h1>
+						<h1 id ="count">THE BRATT PACK IS CURRENTLY 4,608 STRONG</h1>
 					</div>
 				</div>
 			</>

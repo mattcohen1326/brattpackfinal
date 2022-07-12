@@ -6,6 +6,7 @@ import Home from "./home.js";
 import Spaces from "./Spaces.js"
 import fcontent from './content.json'
 import ArticleComponent from './ArticleComponent.js';
+import Community from './Community.js';
 
 const art = fcontent.content
 
@@ -26,6 +27,7 @@ const Main = () => {
 	  <Route exact path='/Home' element={<Home />}></Route>
     <Route exact path='/Spaces' element={<Spaces />}></Route>
     <Route exact path='/Appearances' element={<Appearances />}></Route>
+    <Route exact path='/Community' element={<Community />}></Route>
     {createArticleRoutes()}
     </Routes>
   );

@@ -49,6 +49,44 @@ body a{
     justify-content: space-evenly;
 }
 
+#two-spaces{
+	display: flex;
+	width: 100vw;
+	
+}
+#space-intro{
+	text-align: center;
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+	color:white;
+	padding-top:5%;
+}
+
+#space-intro img{
+	width:20vw;
+}
+
+#space-intro h2{
+	width:100vw;
+}
+#space-intro p{
+	width:90vw !important;
+}
+#space-intro h1{
+	width:50vw;
+}
+.space-split{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-around;
+	width:50vw;
+
+}
+#two-spaces img{
+	width:15vw;
+}
 
 #Feed{
 	width:20vw !important;
@@ -216,7 +254,7 @@ body a{
 }
 
 .space-component{
-	width:100%;
+	width:25%;
 	text-align:center;
 	margin-top:5vh;
 	margin-bottom:5vh;
@@ -239,7 +277,7 @@ body a{
 	margin-left:5vw;
 	justify-content:center;
 }
-#pic-containter{
+#pic-container{
 	margin:5vw;
 }
 #pics img{
@@ -283,7 +321,7 @@ body a{
 	#right-side-content{
 		position:fixed;
 		opacity:0%;
-		z-index:-1;
+		z-index:-1 ;
 	}
 	#stripes{
 		z-index:3;
@@ -297,10 +335,10 @@ body a{
 		z-index: 2;
 	}
 
-	#feed{
-		position:fixed;
-		opacity:0%;
-		z-index:-1;
+	#Feed{
+		position:fixed !important;
+		opacity:0% !important;
+		z-index:-1 !important;
 	}
 	.nav-item{
 		font-size:4vw !important;
@@ -362,6 +400,7 @@ body a{
 
 	.Article{
 		height: 15vh !important;
+		font-size:2vw;
 	}
 }
 
