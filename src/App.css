@@ -365,7 +365,7 @@ body a{
 	display: flex;
     flex-wrap: wrap;
     justify-content: center;
-	opacity: 100%;
+	opacity: 1;
     position: relative !important;
     color: white;
     padding: 5vh;
