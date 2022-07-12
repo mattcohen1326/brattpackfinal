@@ -32,7 +32,7 @@ function Appearances() {
         <>
             <Nav />
             <div id = "Main-Content">
-            <h1>CHECK OUT @THEBRATTPACK63 ON THESE PODCAST APPEARANCES</h1>
+            <h1 id = "ap-intro">CHECK OUT @THEBRATTPACK63 ON THESE PODCAST APPEARANCES</h1>
             <div id = "appearances">
                 {generateAppearances()}
             </div>

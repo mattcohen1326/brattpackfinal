@@ -12,7 +12,10 @@ body{
 	margin:0px;
 	font-family: 'Notable', sans-serif;
 }
-
+.comment-box{
+	bottom:-7vh;
+	position:relative;
+}
 body a{
 	text-decoration: none;
 }
@@ -315,6 +318,9 @@ body a{
 	#Main-Content{
 		justify-content: center !important;
 	}
+	#ap-intro{
+		font-size: 6vw;
+	}
 	#spaces{
 		margin-top:25vw;
 	}
@@ -365,6 +371,13 @@ body a{
     padding: 5vh;
 		
 	}
+	#pics{
+		width:80vw !important;
+		overflow: hidden;
+	}
+	#space-intro img{
+		width:60vw;
+	}
 	#Articles{
 		margin-top:7vh;
 	}
@@ -401,6 +414,33 @@ body a{
 	.Article{
 		height: 15vh !important;
 		font-size:2vw;
+	}
+
+	.appearance{
+		padding: 5vw;
+		width:90vw !important;
+	}
+	#space-intro h2{
+		width: 100vw;
+		font-size: 4vw;
+	}
+
+	#space-intro p{
+		width: 90vw !important;
+		font-size: 3vw;
+	}
+
+	#space-intro h1{
+		width: 50vw;
+		font-size: 4vw;
+	}
+
+	#two-spaces img{
+		width: 30vw;
+	}
+
+	.space-component{
+		width: 100%;
 	}
 }
 
